@@ -1,0 +1,26 @@
+{
+  "name": "requestheaderparsermicroservice",
+  "version": "1.0.0",
+  "description": "API project for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mav1283/requestheaderparsermicroservice.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Dani Paolo S. Dullano\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D, hyperdev\"\u001b[D\u001b[, express\u001b[B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mav1283/requestheaderparsermicroservice/issues"
+  },
+  "homepage": "https://github.com/mav1283/requestheaderparsermicroservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0"
+  }
+}
