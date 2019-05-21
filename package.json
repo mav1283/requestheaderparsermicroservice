@@ -4,16 +4,20 @@
   "description": "API project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mav1283/requestheaderparsermicroservice.git"
   },
   "keywords": [
-    "node"
+    "node",
+    "cors",
+    "express",
+    "freeCodeCamp"
   ],
-  "author": "Dani Paolo S. Dullano\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D, hyperdev\"\u001b[D\u001b[, express\u001b[B",
+  "author": "Dani Paolo S. Dullano",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mav1283/requestheaderparsermicroservice/issues"
